@@ -22,7 +22,7 @@ Nuestro logotipo es un logotipo responsive.
 
 
 
-###La reductibilidad permite leer bien la tipografía y el símbolo del GDG
+### La reductibilidad permite leer bien la tipografía y el símbolo del GDG
 
 En este caso aplicaremos el logotipo completo
 
