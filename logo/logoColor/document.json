@@ -1,0 +1,55 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3450980392156863,
+        "green": 0.615686274509804,
+        "red": 0.0588235294117647
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.95686274766922,
+        "green": 0.5215686559677124,
+        "red": 0.2588235437870026
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.02745098039215688,
+        "green": 0.7568627450980392,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2156862745098039,
+        "green": 0.2666666666666667,
+        "red": 0.8588235294117647
+      }
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "do_objectID": "425262A4-94EE-4350-B95F-47D871E2DC0C",
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  }
+}
